@@ -16,7 +16,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/nisal-dassanayake" target="_blank">
+  <a href="www.linkedin.com/in/nisal-dassanayake-275b8234b" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisal dassanayake" height="40" width="40" style="border-radius: 50%;" />
   </a>
 </p>
